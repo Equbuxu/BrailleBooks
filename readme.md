@@ -6,8 +6,8 @@ A tool to convert any image into Minecraft written book. It uses braille Unicode
 
 Give commands and original images can be found in Examples folder
 
-![Cube](https://raw.githubusercontent.com/BYSTACK/BrailleBooks/dev/Cube.png)
-![Mario](https://raw.githubusercontent.com/BYSTACK/BrailleBooks/dev/Mario.png)
+![Cube](https://raw.githubusercontent.com/BYSTACK/BrailleBooks/master/Cube.png)
+![Mario](https://raw.githubusercontent.com/BYSTACK/BrailleBooks/master/Mario.png)
 
 ## Usage
 
