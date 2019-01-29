@@ -20,3 +20,7 @@ Another way to make a multi-page book is to drag a folder onto the program. The 
 To achieve best results, use 76x56 images (or smaller). Larger images will be downscaled.
 
 The resulting command will be saved in command.mcfunction file near the original image/folder. You can either open it with a text editor and copypaste the command into a command block or add the file to a datapack. Be aware that there is a limit of 32200 characters when using a commands block, any commands longer than this can only be run through a datapack.
+
+## Usage again if above isn't clear enough
+
+![Usage](https://raw.githubusercontent.com/BYSTACK/BrailleBooks/master/Usage.png)
