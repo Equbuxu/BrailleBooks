@@ -1,6 +1,6 @@
 # BrailleBooks
 
-A tool to convert any image into Minecraft written book. It uses braille Unicode characters to achieve better resolution.
+A tool to convert any image into Minecraft written book. It uses braille Unicode characters to achieve better resolution. Works with Minecraft 1.14
 
 ## Examples
 
